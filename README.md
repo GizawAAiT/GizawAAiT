@@ -1,4 +1,4 @@
-<h1 align="center">Hi Every One Gizaw</h1>
+<h1 align="center">Hi Every One! I'm Gizaw</h1>
 <h3 align="center">I love coding like you 😄 😄 😄</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gizawdagne" alt="gizawdagne" /></a> </p>
