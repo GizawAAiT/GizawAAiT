@@ -1,7 +1,7 @@
 <h1 align="center">Hi Every One! I'm Gizaw</h1>
 <h3 align="center">I love coding like you 😄 😄 😄</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gizawdagne" alt="gizawdagne" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GizawAAiT" alt="gizawdagne" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gizawaait" target="blank"><img src="https://img.shields.io/twitter/follow/gizawaait?logo=twitter&style=for-the-badge" alt="gizawaait" /></a> </p>
 
